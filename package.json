@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngodanghai9x/tools.git"
+  },
+  "author": "Ngo Dang Hai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngodanghai9x/tools/issues"
+  },
+  "homepage": "https://github.com/ngodanghai9x/tools#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
